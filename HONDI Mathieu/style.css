@@ -1,0 +1,18 @@
+*{
+    margin: 0 0px;
+}
+body{
+    height: 100vh;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+a{
+    text-decoration: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+nav{
+    display: flex;
+    gap: 20px;
+}
